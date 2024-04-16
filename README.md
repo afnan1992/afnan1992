@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<h3 align="center">I am a experienced Data Engineer with a focus on data modelling and creating data pipelines in the cloud</h3>
+<h3 align="center">Data Engineer with a focus on data modelling and creating data pipelines in the cloud</h3>
 
 <!--
 **afnan1992/afnan1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
