@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about data modeling, managing data infrastructure and how to use Docker to streamline your development process
 
+- 📫 How to reach me: https://www.linkedin.com/in/afnan-shahid/
+
